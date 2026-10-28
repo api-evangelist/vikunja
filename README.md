@@ -64,5 +64,26 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Vikunja is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://vikunja.io/
+Vikunja is an open-source, self‑hostable task management platform offering lists, Kanban, Gantt, and table views. It emphasizes data ownership, privacy, and European hosting, with optional cloud hosting. The software is released under AGPL‑v3 and provides import tools for Todoist, Trello, and Microsoft To‑Do.
+
+**Areas:** Company · OpenSource · TaskManagement · SelfHostable · European
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://vikunja.io/)
+- [Documentation](https://vikunja.io/docs)
+- [Getting started](https://vikunja.io/docs/fail2ban)
+- [Pricing](https://vikunja.io/pricing)
+- [Support](https://vikunja.io/support)
+- [Changelog](https://vikunja.io/changelog)
+- [Security](https://vikunja.io/security)
+- [Privacy policy](https://vikunja.io/privacy)
+- [GitHub](https://github.com/go-vikunja)
+
+**APIs profiled:** 2
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/vikunja/](https://apis.io/providers/vikunja/).
